@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../src/components/sidebar/index.ts"],"names":[],"mappings":"AAAA,6CAA6C;AAC7C,cAAc,eAAe,CAAC","sourcesContent":["// Re-export di tutti i componenti principali\r\nexport * from \"./app-sidebar\";\r\n"]}
